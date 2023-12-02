@@ -8,15 +8,15 @@ A list of essential tools, resources, papers for artists and creative people to 
 
 ## List of Diffusion Models
 
-### Most popular text-to-image models
-- DALL·E 3, *Proprietary* *Paid*
-- Midjourney, *Proprietary* *Paid*
-- Stable Diffusion, *Free* and *Opensource*
+### Most popular text-to-image & image-to-image models
+- [DALL·E 3](https://openai.com/dall-e-3), *Proprietary* & *Paid*
+- [Midjourney](https://www.midjourney.com/), *Proprietary* & *Paid*
+- [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), *Free* & *Open-source*
 
-### Most popular text-to-video models
-- Runway, *Proprietary* *Paid*
-- Pika Labs, *Proprietary*
-- Stable Video Diffusion, *Free* and *Opensource*
+### Most popular text-to-video & image-to-video models
+- [Runway](https://runwayml.com/), *Proprietary* & *Paid*
+- [Pika Labs](https://pika.art/), *Proprietary*
+- [Stable Video Diffusion](https://github.com/Stability-AI/generative-models), *Free* & *Open-source*
 
 ## Exciting research
 
@@ -26,6 +26,7 @@ A list of essential tools, resources, papers for artists and creative people to 
 ## Useful Tools
 
 - [Lexica Art](https://lexica.art/) : Discover stunning community generated images, Lexica Art is also a search engine. Very useful to get new quality prompts
+- [Midjourney Community Showcase](https://legacy.midjourney.com/showcase/recent/) : Discover stunning generated images from the Midjourney users. Very useful to get new quality prompts
 
 ## Resources
 
