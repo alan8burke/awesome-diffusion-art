@@ -13,22 +13,28 @@ A list of essential tools, resources, papers for artists and creative people to 
 - [Midjourney](https://www.midjourney.com/), *Proprietary* & *Paid*
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion), *Free* & *Open-source*
 
-### Most popular text-to-video & image-to-video models
+### Most popular text-to-video & image-to-video models (early phase)
 - [Runway](https://runwayml.com/), *Proprietary* & *Paid*
 - [Pika Labs](https://pika.art/), *Proprietary*
 - [Stable Video Diffusion](https://github.com/Stability-AI/generative-models), *Free* & *Open-source*
 
+### Other modalities
+Text-to-music:
+- [MusicGen](https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md), *Free* & *Open-source*
+
 ## Exciting research
 
+- ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models ([Paper](https://arxiv.org/abs/2302.05543), [Code](https://github.com/lllyasviel/ControlNet))
 - Word-As-Image for Semantic Typography ([Website](https://wordasimage.github.io/Word-As-Image-Page/), [Github](https://github.com/Shiriluz/Word-As-Image), [Demo](https://huggingface.co/spaces/SemanticTypography/Word-As-Image))
 - Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models ([Website](https://dangeng.github.io/visual_anagrams/), [Github](https://github.com/dangeng/visual_anagrams))
 
 ## Useful Tools
 
-- [Lexica Art](https://lexica.art/) : Discover stunning community generated images, Lexica Art is also a search engine. Very useful to get new quality prompts
-- [Midjourney Community Showcase](https://legacy.midjourney.com/showcase/recent/) : Discover stunning generated images from the Midjourney users. Very useful to get new quality prompts
+Prompt Engineering:
+- [Lexica Art](https://lexica.art/) : Discover stunning community generated images, Lexica Art is also a search engine. Very useful to discover quality prompts
+- [Midjourney Community Showcase](https://legacy.midjourney.com/showcase/recent/) : Discover stunning generated images from the Midjourney users. Very useful to discover quality prompts
 
-## Resources
+## Miscellaneous
 
 - Deep Learning for Art, Aesthetics, and Creativity, *MIT Course* ([Youtube Playlist](https://www.youtube.com/playlist?app=desktop&list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH&cbrd=1), [Course Page](https://ali-design.github.io/deepcreativity/))
 - Subreddit dedicated to generated videos ([Reddit](https://old.reddit.com/r/aivideo/))
