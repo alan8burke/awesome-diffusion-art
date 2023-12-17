@@ -33,6 +33,10 @@ Text-to-music:
 Prompt Engineering:
 - [Lexica Art](https://lexica.art/) : Discover stunning community generated images, Lexica Art is also a search engine. Very useful to discover quality prompts
 - [Midjourney Community Showcase](https://legacy.midjourney.com/showcase/recent/) : Discover stunning generated images from the Midjourney users. Very useful to discover quality prompts
+- [CLIP Interrogator](https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator) : Get the prompt used to generate an image you submit
+
+Demos:
+- [Illusion Diffusion HQ](https://huggingface.co/spaces/AP123/IllusionDiffusion) : Creates a high quality illusion from a given pattern (Based on ControlNet)
 
 ## Miscellaneous
 
